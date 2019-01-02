@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "782418278435",
+    "firebase_url": "https://kanban-pakhaji.firebaseio.com",
+    "project_id": "kanban-pakhaji",
+    "storage_bucket": "kanban-pakhaji.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782418278435:android:788a6ca8b1eea088",
+        "android_client_info": {
+          "package_name": "com.kotakmakan_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782418278435-scriedn8ljeegp22vjlt83tva1085qn9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh0WyTNm7hqcUwmYdGWKTMLk4lW_WFiBA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
