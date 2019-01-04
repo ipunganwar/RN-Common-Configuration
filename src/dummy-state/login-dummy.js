@@ -2,7 +2,7 @@ import { LoginSuccess, LoginFailed } from '../actions/login'
 
 const login = {
   username: '0023012222',
-  password: 'ekantin123'
+  password: 'project_name123'
 }
 
 const success = {

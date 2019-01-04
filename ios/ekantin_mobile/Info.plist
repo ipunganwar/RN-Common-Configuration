@@ -5,7 +5,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
-	<string>ekantin_mobile</string>
+	<string>project_name_mobile</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -42,7 +42,7 @@
 	<dict>
 		<key>NSExceptionDomains</key>
 		<dict>
-			<key>developmentapi.kotakmakan.id</key>
+			<key>developmentapi.yourapi.id</key>
 			<dict>
 				<key>NSIncludesSubdomains</key>
 				<true/>

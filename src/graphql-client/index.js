@@ -21,7 +21,7 @@ const link = onError(({ graphQLErrors, networkError }) => {
 });
 
 const timeoutLink = new ApolloLinkTimeout(10000)
-const httpLink = new HttpLink({uri: `${connection.server.ekantin}graphql`})
+const httpLink = new HttpLink({uri: `${connection.server.project_name}graphql`})
 const timeoutHttpLink = timeoutLink.concat(httpLink)
 
 const defaultOptions = {
@@ -39,7 +39,7 @@ const defaultOptions = {
 };
 
 const client = new ApolloClient({
-  link: new HttpLink({uri: `${connection.server.ekantin}graphql`}),
+  link: new HttpLink({uri: `${connection.server.project_name}graphql`}),
   cache: new InMemoryCache(),
   defaultOptions,
 });

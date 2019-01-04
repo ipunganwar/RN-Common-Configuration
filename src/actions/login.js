@@ -48,10 +48,10 @@ export const OffLoading = () => {
 }
 
 export const GetLogin = (username, password) => {
-  console.log("masuk sini function", connection.server.ekantin)
+  console.log("masuk sini function", connection.server.project_name)
   return function action(dispatch){
     dispatch({ type: 'LOGIN'})
-    let url = `${connection.server.ekantin}mobile/auth/login`
+    let url = `${connection.server.project_name}mobile/auth/login`
     let data = {
         username: username,
         password: password
@@ -69,7 +69,7 @@ export const GetLogin = (username, password) => {
 }
 
 export const GetVerificationPassword = (token, password) => {
-  let url = `${connection.server.ekantin}mobile/auth/verif_password`
+  let url = `${connection.server.project_name}mobile/auth/verif_password`
   let data = {
       password: password,
     }

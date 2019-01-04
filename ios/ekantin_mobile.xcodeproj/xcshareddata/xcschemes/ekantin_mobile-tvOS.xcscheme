@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-               BuildableName = "ekantin_mobile-tvOS.app"
-               BlueprintName = "ekantin_mobile-tvOS"
-               ReferencedContainer = "container:ekantin_mobile.xcodeproj">
+               BuildableName = "project_name_mobile-tvOS.app"
+               BlueprintName = "project_name_mobile-tvOS"
+               ReferencedContainer = "container:project_name_mobile.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "ekantin_mobile-tvOSTests.xctest"
-               BlueprintName = "ekantin_mobile-tvOSTests"
-               ReferencedContainer = "container:ekantin_mobile.xcodeproj">
+               BuildableName = "project_name_mobile-tvOSTests.xctest"
+               BlueprintName = "project_name_mobile-tvOSTests"
+               ReferencedContainer = "container:project_name_mobile.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -61,9 +61,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "ekantin_mobile-tvOSTests.xctest"
-               BlueprintName = "ekantin_mobile-tvOSTests"
-               ReferencedContainer = "container:ekantin_mobile.xcodeproj">
+               BuildableName = "project_name_mobile-tvOSTests.xctest"
+               BlueprintName = "project_name_mobile-tvOSTests"
+               ReferencedContainer = "container:project_name_mobile.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -71,9 +71,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "ekantin_mobile-tvOS.app"
-            BlueprintName = "ekantin_mobile-tvOS"
-            ReferencedContainer = "container:ekantin_mobile.xcodeproj">
+            BuildableName = "project_name_mobile-tvOS.app"
+            BlueprintName = "project_name_mobile-tvOS"
+            ReferencedContainer = "container:project_name_mobile.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -94,9 +94,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "ekantin_mobile-tvOS.app"
-            BlueprintName = "ekantin_mobile-tvOS"
-            ReferencedContainer = "container:ekantin_mobile.xcodeproj">
+            BuildableName = "project_name_mobile-tvOS.app"
+            BlueprintName = "project_name_mobile-tvOS"
+            ReferencedContainer = "container:project_name_mobile.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -113,9 +113,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "ekantin_mobile-tvOS.app"
-            BlueprintName = "ekantin_mobile-tvOS"
-            ReferencedContainer = "container:ekantin_mobile.xcodeproj">
+            BuildableName = "project_name_mobile-tvOS.app"
+            BlueprintName = "project_name_mobile-tvOS"
+            ReferencedContainer = "container:project_name_mobile.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

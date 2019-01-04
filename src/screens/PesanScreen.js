@@ -45,7 +45,7 @@ class PesanScreen extends React.Component {
       passProps: {
         icon: 'Warning',
         title: 'Konfirmasi',
-        text: 'Keluar dari aplikasi KotakMakan?',
+        text: 'Keluar dari aplikasi ?',
         isQuit: true
       },
       style: {
@@ -231,7 +231,7 @@ class PesanScreen extends React.Component {
       return (
         this.filterShowedKantin().map((item, index) => {
           return (
-            <KantinListItem item={item} key={index} index={index} handleKantinClicked={(kantinName, kodeOutlet) => this.pushToPilihMenu(kantinName, kodeOutlet)}/>
+            <KantinListItem item={item} key={index} index={index} handlproject_nameClicked={(kantinName, kodeOutlet) => this.pushToPilihMenu(kantinName, kodeOutlet)}/>
           )
         })
       )

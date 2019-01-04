@@ -99,7 +99,7 @@ android {
     buildToolsVersion '27.0.3'
 
     defaultConfig {
-        applicationId "com.kotakmakan_mobile"
+        applicationId "com.package_name"
         minSdkVersion 16
         targetSdkVersion 26
         versionCode 1

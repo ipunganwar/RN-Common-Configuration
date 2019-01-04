@@ -1,4 +1,4 @@
-package com.kotakmakan_mobile;
+package com.package_name;
 
 import com.facebook.react.ReactPackage;
 import com.reactnativenavigation.NavigationApplication;

@@ -13,7 +13,7 @@ export const setFCMToken = (userToken, fcmToken) => {
     (async () => {
       console.log('ada ni barangnya', userToken, fcmToken)
       try {
-        let setFcmToken = await axios.post(`${connection.server.ekantin}/mobile/auth/refreshDeviceToken`, {
+        let setFcmToken = await axios.post(`${connection.server.project_name}/mobile/auth/refreshDeviceToken`, {
           'firebaseToken' : fcmToken
         }, {
           headers: {

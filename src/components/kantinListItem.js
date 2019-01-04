@@ -8,14 +8,14 @@ class KantinListItem extends React.Component {
     super(props)
   }
 
-  handleKantinClicked () {
-    this.props.handleKantinClicked(this.props.item.nama_outlet, this.props.item.kode_outlet)
+  handlproject_nameClicked () {
+    this.props.handlproject_nameClicked(this.props.item.nama_outlet, this.props.item.kode_outlet)
   }
 
   render() {
     return (
       <View style={styles.cardItemKantin}>
-        <TouchableOpacity onPress={() => this.handleKantinClicked()}>
+        <TouchableOpacity onPress={() => this.handlproject_nameClicked()}>
           <View>
             <Image
               style={styles.imageHeaderItemKantin}

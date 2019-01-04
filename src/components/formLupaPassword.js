@@ -4,7 +4,7 @@ import {Button, Item, Input} from 'native-base'
 import { width as DIMENSION_WIDTH, height as DIMENSION_HEIGHT, normalizeFont, fontPlatform } from '../helpers/dimension'
 import { Navigation } from 'react-native-navigation'
 import axios from 'axios'
-let BASE_URL = 'http://developmentekantin-env.ap-southeast-1.elasticbeanstalk.com/mobile/auth'
+let BASE_URL = 'http://developmentproject_name-env.ap-southeast-1.elasticbeanstalk.com/mobile/auth'
 
 class FormLupaPassword extends React.Component {
   constructor(props) {

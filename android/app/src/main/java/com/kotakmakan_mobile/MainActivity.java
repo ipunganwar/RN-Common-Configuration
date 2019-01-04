@@ -1,4 +1,4 @@
-package com.kotakmakan_mobile;
+package com.package_name;
 
 import android.os.Bundle;
 import com.crashlytics.android.Crashlytics;

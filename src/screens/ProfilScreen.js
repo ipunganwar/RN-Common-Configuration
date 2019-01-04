@@ -38,7 +38,7 @@ class ProfilScreen extends React.Component {
       passProps: {
         icon: 'Warning',
         title: 'Konfirmasi',
-        text: 'Keluar dari aplikasi KotakMakan?',
+        text: 'Keluar dari aplikasi ?',
         isQuit: true
       },
       style: {
